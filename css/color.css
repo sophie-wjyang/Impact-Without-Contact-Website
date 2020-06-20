@@ -207,7 +207,7 @@ a{
 }
 
 .causes-section .cause-block:nth-child(2) .inner-box .progress-box .bar-inner{
-	background:#ae64fd;	
+	background:#55BCCA;	
 }
 
 .causes-section .cause-block:nth-child(3) .inner-box .progress-box .bar-inner{
@@ -235,7 +235,7 @@ a{
 }
 
 .causes-section .cause-block:nth-child(2) .inner-box .progress-box .count-text{
-	background:#ae64fd;	
+	background:#55BCCA;	
 }
 
 .causes-section .cause-block:nth-child(3) .inner-box .progress-box .count-text{
@@ -263,7 +263,7 @@ a{
 }
 
 .causes-section .cause-block:nth-child(2) .inner-box .progress-box .count-text:after{
-	border-top-color:#ae64fd;	
+	border-top-color:#55BCCA;	
 }
 
 .causes-section .cause-block:nth-child(3) .inner-box .progress-box .count-text:after{
@@ -444,7 +444,7 @@ a{
 }
 
 .fact-counter .column:nth-child(4) .inner .count-outer{
-	color:#ae64fd;
+	color:#55BCCA;
 }
 
 .news-block .inner-box .date{
@@ -488,7 +488,7 @@ a{
 }
 
 .about-section .about-feature-two:nth-child(2) .image-layer:before{
-	background:#ae64fd;	
+	background:#55BCCA;	
 }
 
 .about-section .about-feature-two:nth-child(3) .image-layer:before{
@@ -560,7 +560,7 @@ a{
 }
 
 .info-boxes .info-box:nth-child(2) .image-layer:before{
-	background:#ae64fd;	
+	background:#55BCCA;	
 }
 
 .info-boxes .info-box:nth-child(3) .image-layer:before{
@@ -838,11 +838,11 @@ a.ui-button:active, .ui-button:active,
 }
 
 .call-to-action-two{
-	background:#ae64fd;
+	background:#55BCCA;
 }
  
 .banner-carousel .slide-item .curved-layer:before{
-	background:#ae64fd;
+	background:#55BCCA;
 }
  
 .cause-block .inner-box .donate-info .bg-image-layer:before{
@@ -894,7 +894,7 @@ a.ui-button:active, .ui-button:active,
 }
 
 .causes-section-two .cause-block-two:nth-child(2) .inner-box .progress-box .bar-inner{
-	background:#ae64fd;	
+	background:#55BCCA;	
 }
 
 .causes-section-two .cause-block-two:nth-child(3) .inner-box .progress-box .bar-inner{
@@ -922,7 +922,7 @@ a.ui-button:active, .ui-button:active,
 }
 
 .causes-section-two .cause-block-two:nth-child(2) .inner-box .progress-box .count-text{
-	background:#ae64fd;	
+	background:#55BCCA;	
 }
 
 .causes-section-two .cause-block-two:nth-child(3) .inner-box .progress-box .count-text{
@@ -950,7 +950,7 @@ a.ui-button:active, .ui-button:active,
 }
 
 .causes-section-two .cause-block-two:nth-child(2) .inner-box .progress-box .count-text:after{
-	border-top-color:#ae64fd;	
+	border-top-color:#55BCCA;	
 }
 
 .causes-section-two .cause-block-two:nth-child(3) .inner-box .progress-box .count-text:after{
