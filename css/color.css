@@ -17,7 +17,7 @@ a{
 }
 
 .btn-style-three .btn-title{
-	background-color: #dad;
+	background-color: #97CAEF;
 }
 
 .btn-style-three .btn-title:before{
@@ -175,7 +175,7 @@ a{
 }
 
 .about-section .about-feature:nth-child(3) .inner-box:before{
-	background:#f7a900;	
+	background:#FC4445;	
 }
 
 .about-section .about-feature:nth-child(4) .inner-box:before{
@@ -191,7 +191,7 @@ a{
 }
 
 .about-section .about-feature:nth-child(3) .icon-box{
-	color:#f7a900;	
+	color:#FC4445;	
 }
 
 .about-section .about-feature:nth-child(4) .icon-box{
@@ -223,7 +223,7 @@ a{
 }
 
 .causes-section .cause-block:nth-child(6) .inner-box .progress-box .bar-inner{
-	background:#f7a900;	
+	background:#FC4445;	
 }
 
 .cause-block .inner-box .progress-box .count-text{
@@ -251,7 +251,7 @@ a{
 }
 
 .causes-section .cause-block:nth-child(6) .inner-box .progress-box .count-text{
-	background:#f7a900;	
+	background:#fc4445;	
 }
 
 .cause-block .inner-box .progress-box .count-text:after{
@@ -279,7 +279,7 @@ a{
 }
 
 .causes-section .cause-block:nth-child(6) .inner-box .progress-box .count-text:after{
-	border-top-color:#f7a900;	
+	border-top-color:#FC4445;	
 }
 
 .cause-block .inner-box h3 a:hover{
@@ -345,14 +345,14 @@ a{
 .services .service-block:nth-child(4) .icon-box,
 .what-we-do .service-block:nth-child(12) .icon-box,
 .services .service-block:nth-child(12) .icon-box{
-	color:#f7a900;
+	color:#FC4445;
 }
 
 .what-we-do .service-block:nth-child(4) .icon-box:after,
 .services .service-block:nth-child(4) .icon-box:after,
 .what-we-do .service-block:nth-child(12) .icon-box:after,
 .services .service-block:nth-child(12) .icon-box:after{
-	background:#f7a900;	
+	background:#FC4445;	
 }
 
 .what-we-do .service-block:nth-child(5) .icon-box,
@@ -910,7 +910,7 @@ a.ui-button:active, .ui-button:active,
 }
 
 .causes-section-two .cause-block-two:nth-child(6) .inner-box .progress-box .bar-inner{
-	background:#f7a900;	
+	background:#FC4445;	
 }
 
 .cause-block-two .inner-box .progress-box .count-text{
@@ -938,7 +938,7 @@ a.ui-button:active, .ui-button:active,
 }
 
 .causes-section-two .cause-block-two:nth-child(6) .inner-box .progress-box .count-text{
-	background:#f7a900;	
+	background:#FC4445;	
 }
 
 .cause-block-two .inner-box .progress-box .count-text:after{
@@ -966,7 +966,7 @@ a.ui-button:active, .ui-button:active,
 }
 
 .causes-section-two .cause-block-two:nth-child(6) .inner-box .progress-box .count-text:after{
-	border-top-color:#f7a900;	
+	border-top-color:#FC4445;	
 }
 
 .cause-block-two .inner-box h3 a:hover{
