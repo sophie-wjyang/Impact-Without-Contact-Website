@@ -9,7 +9,7 @@ a{
 }
 
 .btn-style-one .btn-title{
-	background-color: #F2485B;
+	background-color: #FC4445;
 }
 
 .btn-style-one .btn-title:before{
@@ -17,7 +17,7 @@ a{
 }
 
 .btn-style-three .btn-title{
-	background-color: #97CAEF;
+	background-color: #FC4445;
 }
 
 .btn-style-three .btn-title:before{
@@ -155,11 +155,11 @@ a{
 
 .banner-section .owl-nav .owl-prev:hover, 
 .banner-section .owl-nav .owl-next:hover{
-	background: #55BCCA;
+	background: #97CAEF;
 }
 
 .banner-section .owl-dots .owl-dot.active span{
-	background: #55BCCA;
+	background: #97CAEF;
 }
 
 .sec-title .sub-title{
