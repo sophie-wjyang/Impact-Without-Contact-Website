@@ -436,15 +436,15 @@ a{
 }
 
 .fact-counter .column:nth-child(2) .inner .count-outer{
-	color:#2ea4ff;
+	color:#FC4445;
 }
 
 .fact-counter .column:nth-child(3) .inner .count-outer{
-	color:#ffbd12;
+	color:#97CAEF;
 }
 
 .fact-counter .column:nth-child(4) .inner .count-outer{
-	color:#55BCCA;
+	color:#ff5a57;
 }
 
 .news-block .inner-box .date{
@@ -842,7 +842,7 @@ a.ui-button:active, .ui-button:active,
 }
  
 .banner-carousel .slide-item .curved-layer:before{
-	background:#55BCCA;
+	background:#97CAEF;
 }
  
 .cause-block .inner-box .donate-info .bg-image-layer:before{
