@@ -1,8 +1,8 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "John Doe" );
-define( "RECIPIENT_EMAIL", "youremail@emailservice.com" );
+define( "RECIPIENT_NAME", "Impact Without Contact" );
+define( "RECIPIENT_EMAIL", "impactwithoutcontact@gmail.com" );
 
 
 // Read the form values
@@ -13,7 +13,7 @@ $message = isset( $_POST['message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subj
 
 // If all values exist, send the email
 if ( $senderName && $senderEmail && $message) {
-  $recipient = RECIPIENT_NAME . " <" . RECIPIENT_EMAIL . ">";
+  $recipient = Impact Without Contact " <"impactwithoutcontact@gmail.com">";
   $headers = "From: " . $senderName . "";
   $msgBody = " Email:". $senderEmail . "Message: " . $message . "";
   $success = mail( $recipient, $headers, $msgBody );
