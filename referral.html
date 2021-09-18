@@ -230,19 +230,19 @@
                     <form method="post" action="sendemail.php" id="contact-form">
                         <div class="row clearfix">                                    
                             <div class="col-md-6 col-sm-12 form-group">
-                                <input type="text" name="username" placeholder="Your name" required="">
+                                <input type="text" name="name" placeholder="Your name" required>
                             </div>
                             
                             <div class="col-md-6 col-sm-12 form-group">
-                                <input type="email" name="email" placeholder="Your Email" required="">
+                                <input type="email" name="email" placeholder="Your Email" required>
                             </div>
     
                             <div class="col-md-12 col-sm-12 form-group">
-                                <textarea name="message" placeholder="Write your message"></textarea>
+                                <textarea name="message" placeholder="Write your message"required></textarea>
                             </div>
-    
-                            <div class="col-md-12 col-sm-12 form-group text-center">
-                                <button class="theme-btn btn-style-one" type="submit" name="submit-form"><span class="btn-title">Send Message</span></button>
+                            
+                            <input type="submit" class="form-control submit" value="Send Message">
+                            
                             </div>
                         </div>
                     </form>
