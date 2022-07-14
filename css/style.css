@@ -223,7 +223,7 @@ figure{
 .btn-style-two{
 	position: relative;
 	display: inline-block;
-	font-size: 15px;
+font-size: 15px;
 	line-height: 28px;
 	color: #848484;
 	font-weight: 600;
@@ -2078,7 +2078,7 @@ img{
 .about-section{
 	position:relative;
 	padding:160px 0px 120px;
-	background-color:#edf1f5;
+	background-color:#ffffff;
 }
 
 .about-section .top-rotten-curve{
@@ -2098,7 +2098,7 @@ img{
 	bottom:-19px;
 	width:100%;
 	height:20px;
-	background:url(../images/background/rotten-curve-2.png) center top no-repeat;
+	background:url(../images/background/rotten-curve-4.png) center top no-repeat;
 	background-size:100% 100%;
 	z-index:2;
 }
@@ -2152,7 +2152,7 @@ img{
 	display:block;
 	padding:50px 15px;
 	text-align:center;
-	background:#ffffff;
+	background:#f4f6f7;
 	border-radius:20px;
 	overflow:hidden;
 }
@@ -2273,6 +2273,17 @@ img{
 	padding:130px 0px 120px;
 	background-color:#ffffff;
 	overflow:hidden;
+}
+
+.causes-section .top-rotten-curve{
+	position:absolute;
+	left:0;
+	top:0px;
+	width:100%;
+	height:20px;
+	background:url(../images/background/rotten-curve-7.png) center bottom no-repeat;
+	background-size:100% 100%;
+	z-index:1;
 }
 
 .causes-section .circle-one{
@@ -2507,51 +2518,50 @@ img{
 
 .video-section{
 	position:relative;
-	padding:180px 0px;
+	padding:160px 0px 120px;
 	background-color:#edf1f5;
-	overflow:hidden;
-}
-
-.video-section .circle-one{
-	position:absolute;
-	right:-200px;
-	top:-170px;
-	width:670px;
-	height:670px;
-	border:100px solid #e8ebef;
-	border-radius:50%;	
-}
-
-.video-section .circle-two{
-	position:absolute;
-	right:10%;
-	bottom:-180px;
-	width:500px;
-	height:500px;
-	border:100px solid #e8ebef;
-	border-radius:50%;	
 }
 
 .video-section .top-rotten-curve{
 	position:absolute;
 	left:0;
-	top:0px;
+	top:-19px;
 	width:100%;
 	height:20px;
-	background:url(../images/background/rotten-curve-4.png) center bottom no-repeat;
+	background:url(../images/background/rotten-curve-1.png) center bottom no-repeat;
 	background-size:100% 100%;
-	z-index:1;
+	z-index:2;
 }
 
 .video-section .bottom-rotten-curve{
 	position:absolute;
 	left:0;
-	bottom:0px;
+	bottom:-19px;
 	width:100%;
 	height:20px;
-	background:url(../images/background/rotten-curve-5.png) center top no-repeat;
+	background:url(../images/background/rotten-curve-2.png) center top no-repeat;
 	background-size:100% 100%;
-	z-index:1;
+	z-index:2;
+}
+
+.video-section .circle-one{
+	position:absolute;
+	left:-300px;
+	top:-400px;
+	width:670px;
+	height:670px;
+	border:100px solid #e4e7eb;
+	border-radius:50%;	
+}
+
+.video-section .circle-two{
+	position:absolute;
+	right:-200px;
+	top:-170px;
+	width:670px;
+	height:670px;
+	border:100px solid #e4e7eb;
+	border-radius:50%;	
 }
 
 .video-section .image-layer{
@@ -2896,10 +2906,21 @@ img{
 .team-section .bottom-rotten-curve{
 	position:absolute;
 	left:0;
-	bottom:-19px;
+	top:-19px;
 	width:100%;
 	height:20px;
-	background:url(../images/background/rotten-curve-4.png) center top no-repeat;
+	background:url(../images/background/rotten-curve-6.png) center top no-repeat;
+	background-size:100% 100%;
+	z-index:1;
+}
+
+.news-section .top-rotten-curve{
+	position:absolute;
+	left:0;
+	top:-19px;
+	width:100%;
+	height:20px;
+	background:url(../images/background/rotten-curve-6.png) center top no-repeat;
 	background-size:100% 100%;
 	z-index:1;
 }
@@ -3025,8 +3046,19 @@ img{
 .upcoming-events{
 	position:relative;
 	padding:150px 0px;
-	background-color:#edf1f5;
+	background-color:#edf1f5; 
 	overflow:hidden;
+}
+
+.upcoming-events .bottom-rotten-curve{
+	position:absolute;
+	left:0;
+	bottom:-19px;
+	width:100%;
+	height:20px;
+	background:url(../images/background/rotten-curve-2.png) center top no-repeat;
+	background-size:100% 100%;
+	z-index:2;
 }
 
 .upcoming-events .circle-one{
@@ -3309,10 +3341,10 @@ img{
 .news-section .top-rotten-curve{
 	position:absolute;
 	left:0;
-	top:-19px;
+	top:5px;
 	width:100%;
 	height:20px;
-	background:url(../images/background/rotten-curve-5.png) center top no-repeat;
+	background:url(../images/background/rotten-curve-6.png) center top no-repeat;
 	background-size:100% 100%;
 	z-index:1;
 }
@@ -3839,6 +3871,7 @@ img{
 ***/
 
 .about-section.style-two{
+	background-color: #f0f4f4;
 	padding:0px 0px 140px;
 }
 
@@ -5101,7 +5134,23 @@ img{
 	position: relative;
 	border-radius: 20px;
 	overflow: hidden;
+	display: flex;
 }
+
+/* past projects gallery */
+.gallery-page-section .project-title{
+	color: white;
+	font-size: 1.7em;
+}
+
+.gallery-item-two .image-box .text{
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	font-size: 30px;
+	line-height: 1.6em;
+	font-size: 16px;
+}
+
 
 .gallery-item-two .image-box .image{
 	position: relative;
@@ -5133,6 +5182,13 @@ img{
 	-webkit-transform-origin: right center;
 	-ms-transform-origin: right center;
 	transform-origin: right center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 .gallery-item-two .overlay-box:before{
@@ -5142,7 +5198,7 @@ img{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	opacity:0.80;
+	opacity: 0.70;
 }
 
 .gallery-item-two .image-box:hover .overlay-box{
@@ -5152,14 +5208,6 @@ img{
 	-webkit-transform-origin: left center;
 	-ms-transform-origin: left center;
 	transform-origin: left center;
-}
-
-.gallery-item-two .overlay-box a{
-	position: absolute;
-	left: 50%;
-	top: 50%;
-	margin-top: -25px;
-	margin-left: -25px;
 }
 
 .gallery-item-two .overlay-box a span{
