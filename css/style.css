@@ -5312,14 +5312,14 @@ img{
 	position:absolute;
 	left:30px;
 	top:30px;
-	width:74px;
-	height:74px;
-	font-size:30px;
+	width:95px;
+	height:70px;
+	font-size:25px;
 	z-index:1;
 	line-height:1em;
 	font-family: 'Yeseva One', cursive;
 	color:#ffffff;
-	padding-top:15px;
+	padding-top:13px;
 	text-align:center;
 	border-radius:20px 0px 20px 0px;	
 }
@@ -6608,7 +6608,7 @@ img{
 .event-details .inner-box .lower-content{
 	position:relative;
 	line-height:1.6em;
-	font-size:15px;
+	font-size:16px;
 	padding:0 0;	
 }
 
@@ -6625,7 +6625,7 @@ img{
 }
 
 .event-details .inner-box h3{
-	font-size:24px;
+	font-size:30px;
 	line-height:1.25em;
 	font-weight:400;
 	margin-bottom:20px;
@@ -6644,7 +6644,7 @@ img{
 
 .event-details .inner-box p{
 	line-height:1.6em;
-	font-size:15px;
+	font-size:16px;
 	margin-bottom:20px;
 }
 
@@ -6696,17 +6696,19 @@ img{
 	margin-bottom:10px;	
 }
 
+
 .event-details .inner-box .info li:last-child{
 	margin-right:0;	
 }
 
 .event-details .inner-box .info li:before{
-	display:none;	
+	display: none;	
 }
 
 .event-details .map-canvas{
 	border-radius:20px;	
 }
+
 
 /*** 
 
@@ -6738,7 +6740,7 @@ img{
 }
 
 .blog-post-detail .inner h2{
-	font-size:36px;
+	font-size:45px;
 	line-height:1.20em;
 	font-weight:400;
 	color:#25283a;
